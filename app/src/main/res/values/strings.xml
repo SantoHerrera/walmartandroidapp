@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">walmartmacs</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button2">My Items</string>
+    <string name="button">Shop</string>
+    <string name="start">Start</string>
+    <string name="shop">Shop</string>
+    <string name="my_items">My Items</string>
+</resources>

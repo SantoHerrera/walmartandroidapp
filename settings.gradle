@@ -1,0 +1,2 @@
+rootProject.name='walmartmacs'
+include ':app'
